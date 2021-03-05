@@ -10,5 +10,7 @@
  - POST - http://localhost/clientesAPI/api/create.php Registrar un nuevo cliente.
  - POST - http://localhost/clientesAPI/api/update.php Modificar cliente existente.
  - DELETE - http://localhost/clientesAPI/api/delete.php Eliminar un cliente de la base de datos.
+
+- Alejandro Mayró L.
  
  
