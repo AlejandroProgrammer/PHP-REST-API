@@ -2,7 +2,8 @@
  
  - Crear una bd con el nombre "ClientesAPI".
  - Importar script "clientes.sql" a la base de datos creada.
- - Utilizar Postman para probar el funcionamiento de la API.
+ 
+ Utilizar Postman para probar el funcionamiento de la API:
  
  - GET - http://localhost/clientesAPI/api/read.php Lista todos los clientes.
  - GET - http://localhost/clientesAPI/api/single_read.php/?Rut=1 Busca un cliente específico mediante el RUT.
