@@ -1,6 +1,6 @@
 # PHP-REST-API
  
- - Crear una bd con el nombre "ClientesAPI".
+ - Crear una base de datos con el nombre "ClientesAPI".
  - Importar script "clientes.sql" a la base de datos creada.
  
    Utilizar Postman para probar el funcionamiento de la API:
